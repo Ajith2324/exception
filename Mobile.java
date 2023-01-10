@@ -7,5 +7,8 @@ public class Mobile implements Electronics {
 	public static void onOff(boolean isOn) {
 		System.out.println("working");
 	}
+	public void printPrice() {
+		System.out.println(100000);
+	}
 
 }

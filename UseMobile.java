@@ -6,6 +6,7 @@ public class UseMobile {
 		m.printBrand();
 		Electronics.onOff(false);
 		m.onOff(false);
+		m.printPrice();
 	}
 
 }
